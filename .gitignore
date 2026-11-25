@@ -1,0 +1,12 @@
+# u-phudinhvfx slogan entry — local ignores for this build only
+__pycache__/
+*.pyc
+*.pyo
+drafts-2026-11-25/
+slogan-notes-*.txt
+entry-local-*.txt
+.DS_Store
+*.log
+/output/
+*-kit/
+kit.zip
